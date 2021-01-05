@@ -1,0 +1,55 @@
+[22-Jul-2020 20:09:33 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/enirsauc/public_html/projectpark/functions.php:33) in /home/enirsauc/public_html/projectpark/blog/index.php on line 2
+[22-Jul-2020 20:09:33 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/enirsauc/public_html/projectpark/blog/index.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/enirsauc/public_html/projectpark/blog/index.php on line 107
+[01-Aug-2020 18:06:01 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/enirsauc/public_html/projectpark/functions.php:33) in /home/enirsauc/public_html/projectpark/blog/index.php on line 2
+[01-Aug-2020 18:06:01 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/enirsauc/public_html/projectpark/blog/index.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/enirsauc/public_html/projectpark/blog/index.php on line 107
+[04-Aug-2020 23:41:56 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/enirsauc/public_html/projectpark/functions.php:33) in /home/enirsauc/public_html/projectpark/blog/index.php on line 2
+[04-Aug-2020 23:41:56 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/enirsauc/public_html/projectpark/blog/index.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/enirsauc/public_html/projectpark/blog/index.php on line 107
+[17-Aug-2020 08:56:05 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/enirsauc/public_html/projectpark/functions.php:33) in /home/enirsauc/public_html/projectpark/blog/index.php on line 2
+[17-Aug-2020 08:56:05 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/enirsauc/public_html/projectpark/blog/index.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/enirsauc/public_html/projectpark/blog/index.php on line 107
+[20-Aug-2020 05:12:24 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/enirsauc/public_html/projectpark/functions.php:33) in /home/enirsauc/public_html/projectpark/blog/index.php on line 2
+[20-Aug-2020 05:12:24 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/enirsauc/public_html/projectpark/blog/index.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/enirsauc/public_html/projectpark/blog/index.php on line 107
+[25-Aug-2020 07:35:33 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/enirsauc/public_html/projectpark/functions.php:33) in /home/enirsauc/public_html/projectpark/blog/index.php on line 2
+[25-Aug-2020 07:35:33 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/enirsauc/public_html/projectpark/blog/index.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/enirsauc/public_html/projectpark/blog/index.php on line 107
+[03-Sep-2020 20:37:45 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/enirsauc/public_html/projectpark/functions.php:33) in /home/enirsauc/public_html/projectpark/blog/index.php on line 2
+[03-Sep-2020 20:37:45 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/enirsauc/public_html/projectpark/blog/index.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/enirsauc/public_html/projectpark/blog/index.php on line 107
+[07-Sep-2020 05:23:24 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/enirsauc/public_html/projectpark/functions.php:33) in /home/enirsauc/public_html/projectpark/blog/index.php on line 2
+[07-Sep-2020 05:23:24 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/enirsauc/public_html/projectpark/blog/index.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/enirsauc/public_html/projectpark/blog/index.php on line 107
+[22-Sep-2020 19:30:46 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/enirsauc/public_html/projectpark/functions.php:33) in /home/enirsauc/public_html/projectpark/blog/index.php on line 2
+[22-Sep-2020 19:30:46 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/enirsauc/public_html/projectpark/blog/index.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/enirsauc/public_html/projectpark/blog/index.php on line 107
+[23-Sep-2020 01:35:02 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/enirsauc/public_html/projectpark/functions.php:33) in /home/enirsauc/public_html/projectpark/blog/index.php on line 2
+[23-Sep-2020 01:35:04 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/enirsauc/public_html/projectpark/blog/index.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/enirsauc/public_html/projectpark/blog/index.php on line 107
+[10-Oct-2020 22:02:50 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/enirsauc/public_html/projectpark/functions.php:33) in /home/enirsauc/public_html/projectpark/blog/index.php on line 2
+[10-Oct-2020 22:02:50 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/enirsauc/public_html/projectpark/blog/index.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/enirsauc/public_html/projectpark/blog/index.php on line 107
